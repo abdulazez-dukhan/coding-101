@@ -1,8 +1,8 @@
 .venv/
+temp/
 __pycache__/
 .ipynb_checkpoints/
 .env
 *.pyc
 .DS_Store
-
-temp/
+.vscode/
