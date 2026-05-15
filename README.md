@@ -1,19 +1,15 @@
-\# Coding 101
-
-
+# Coding 101
 
 A personal daily coding practice repository for improving productivity in Python, AI engineering, data, ML, and RAG systems.
 
-\## Purpose
+## Purpose
 
 This repository is my daily coding gym. In the time of GenAI, I am trying to focus on self-doing instead of generating.
 
-The goal is to build practical fluency through small exercises, useful notes, and mini-projects.
+The goal is to build practical fluency through small exercises, useful notes, and mini-projects. 
 
 
-\## Structure
-
-
+## Structure
 
 ```text
 
